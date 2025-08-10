@@ -5,3 +5,5 @@ criar um cluster kubernetes usando contaniners individuais docker com imagem ubu
 subir um registry local
 
 subir um vault local
+
+criar uma rede interna com wireguard
