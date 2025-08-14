@@ -54,3 +54,6 @@ https://github.com/ahmetb/kubectx/
 
 
 }
+
+
+tentar subir aplicação, registry e vault no cluster
