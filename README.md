@@ -52,20 +52,20 @@ Feito - instalação kubectx e kubens
 
 ---
 
-###METRICS SERVER
+### METRICS SERVER
 https://github.com/kubernetes-sigs/metrics-server
 
 para ignorar a obrigatoriedade no metrics server
 - wget https://github.com/kubernetes-sigs/metrics-server/releases/latest/download/components.yaml
 incluir a linha "- --kubelet-insecure-tls" no deploy do metrics server e executar kubectl apply -f components.yaml
 
-###COMANDOS METRICS SERVER
+### COMANDOS METRICS SERVER
 	kubectl top nodes
 	kubectl top pod
 
 ---
 
-###KUBECTX
+### KUBECTX
 https://github.com/ahmetb/kubectx/
 
 tentar subir aplicação, registry e vault no cluster
