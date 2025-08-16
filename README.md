@@ -25,15 +25,25 @@ ssh -i ~/.ssh/Tars_machines ubuntu@10.0.0.x
 
 Checklist
 Feito - acesso ssh às maquinas
+
 Feito - instalação container runtime (ContainerD ou ~CRI-O~)
+
 Feito - instalação kubeadm
+
 Feito - instalação kubelet
+
 Feito - instalação kubectl
+
 Feito - iniciar cluster kubernetes
+
 Feito - join de worker nodes
+
 Feito - instalação do CNI (Calico)
+
 Feito - instalação metrics server
+
 Feito - instalação kubectx e kubens
+
 
 
 METRICS SERVER{
