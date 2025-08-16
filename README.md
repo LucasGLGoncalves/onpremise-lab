@@ -60,8 +60,10 @@ para ignorar a obrigatoriedade no metrics server
 incluir a linha "- --kubelet-insecure-tls" no deploy do metrics server e executar kubectl apply -f components.yaml
 
 ### COMANDOS METRICS SERVER
-	kubectl top nodes
-	kubectl top pod
+
+kubectl top nodes
+
+kubectl top pod
 
 ---
 
