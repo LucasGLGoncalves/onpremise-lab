@@ -75,3 +75,5 @@ tentar subir aplicação, registry e vault no cluster
 ---
 
 Subir firewall com iptables ou configuração de ingress
+
+security check
