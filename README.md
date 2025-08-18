@@ -67,6 +67,8 @@ kubectl top pod
 
 ---
 
+Subir firewall com iptables ou configuração de ingress
+
 ### KUBECTX
 https://github.com/ahmetb/kubectx/
 
