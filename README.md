@@ -67,9 +67,11 @@ kubectl top pod
 
 ---
 
-Subir firewall com iptables ou configuração de ingress
-
 ### KUBECTX
 https://github.com/ahmetb/kubectx/
 
 tentar subir aplicação, registry e vault no cluster
+
+---
+
+Subir firewall com iptables ou configuração de ingress
